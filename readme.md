@@ -139,7 +139,7 @@ https://drive.google.com/file/d/1VeBK4Ij3dKBSxxHvVIdVsbWigHMceYsw/view?usp=shari
 
 ## ER Diagram
 
-[![ER Diagram](docs/assets/library_er_diagram.gif)]
+[![ER Diagram](docs/assets/library_er_diagram.png)]
 
 ## Deployment
 
