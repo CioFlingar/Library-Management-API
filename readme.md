@@ -137,6 +137,10 @@ ALLOWED_HOSTS=yourdomain.com
 
 https://drive.google.com/file/d/1VeBK4Ij3dKBSxxHvVIdVsbWigHMceYsw/view?usp=sharing
 
+## ER Diagram
+
+[![ER Diagram](docs/assets/library_er_diagram.gif)]
+
 ## Deployment
 
 - Set `DEBUG=False` in `.env`
