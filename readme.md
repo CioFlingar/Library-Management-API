@@ -129,6 +129,14 @@ ALLOWED_HOSTS=yourdomain.com
 
 ---
 
+## Demo gif
+
+[![Demo GIF](docs/assets/library_1.gif)]
+
+## Demo Full Presentation
+
+https://drive.google.com/file/d/1VeBK4Ij3dKBSxxHvVIdVsbWigHMceYsw/view?usp=sharing
+
 ## Deployment
 
 - Set `DEBUG=False` in `.env`
